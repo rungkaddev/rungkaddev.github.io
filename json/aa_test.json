@@ -5,15 +5,15 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-M",
 
-      "main_ads_banner"           : "YOUR_PLACEMENT_ID",
-      "main_ads_intertitial"      : "ca-app-pub-7084424032551735/5842481248",
-      "main_ads_native"           : "ca-app-pub-7084424032551735/6963991224",
+      "main_ads_banner"           : "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial"      : "ca-app-pub-3940256099942544/1033173712",
+      "main_ads_native"           : "ca-app-pub-3940256099942544/2247696110",
 
-      "open_ads"                  : "YOUR_PLACEMENT_ID",
+      "open_ads"                  : "ca-app-pub-3940256099942544/3419835294",
 
-      "backup_ads_banner"         : "YOUR_PLACEMENT_ID",
-      "backup_ads_intertitial"    : "d5f10eae6c9f32a2",
-      "backup_ads_native"         : "498932280c8e2678",
+      "backup_ads_banner"         : "null",
+      "backup_ads_intertitial"    : "null",
+      "backup_ads_native"         : "null",
       
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
@@ -25,10 +25,6 @@
       "high_paying_keyword_3"     : "education insurance",
       "high_paying_keyword_4"     : "architect",
       "high_paying_keyword_5"     : "car insurance",
-
-      "warna_native"              : "#05eccc68",
-      "line_atau_polos"           : "0",
-      "size_native"               : "2",
 
       "status_app": "0",
       "link_redirect": "https://"
