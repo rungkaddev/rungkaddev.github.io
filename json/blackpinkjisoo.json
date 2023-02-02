@@ -5,11 +5,11 @@
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-M",
 
-      "main_ads_banner"           : "ca-app-pub-7892079575384351/7463537959",
+      "main_ads_banner"           : "ca-app-pub-7892079575384351/7463537959x",
       "main_ads_intertitial"      : "ca-app-pub-7892079575384351/4837374611",
-      "main_ads_native"           : "ca-app-pub-7892079575384351/3524292949",
+      "main_ads_native"           : "ca-app-pub-7892079575384351/3524292949x",
 
-      "open_ads"                  : "ca-app-pub-7892079575384351/8177853828",
+      "open_ads"                  : "ca-app-pub-7892079575384351/8177853828x",
 
       "backup_ads_banner"         : "null",
       "backup_ads_intertitial"    : "a83681f300f76389",
@@ -18,7 +18,7 @@
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
 
-      "interval_intertitial"      : 5,
+      "interval_intertitial"      : 7,
 
       "high_paying_keyword_1"     : "life insurance",
       "high_paying_keyword_2"     : "health insurance",
