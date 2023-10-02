@@ -3,7 +3,7 @@
     {
       "more_app"                  : "1",
       "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "APPLOVIN-M",
+      "select_backup_ads"         : "FACEBOOK",
 
       "main_ads_banner"           : "ca-app-pub-7892079575384351/5556083004",
       "main_ads_intertitial"      : "ca-app-pub-7892079575384351/9303756323",
@@ -11,9 +11,9 @@
 
       "open_ads"                  : "ca-app-pub-7892079575384351/6980845315",
 
-      "backup_ads_banner"         : "null",
-      "backup_ads_intertitial"    : "d201c624d75d72ea",
-      "backup_ads_native"         : "bb6ae59caf94298e",
+      "backup_ads_banner"         : "2245556808972856_2245556892306181",
+      "backup_ads_intertitial"    : "2245556808972856_2245556888972848",
+      "backup_ads_native"         : "2245556808972856_2245556898972847",
       
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
