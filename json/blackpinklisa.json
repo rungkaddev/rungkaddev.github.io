@@ -1,24 +1,24 @@
 {
   "Ads": [
     {
-      "more_app"                  : "1",
-      "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "APPLOVIN-M",
+      "more_app"                  : "0",
+      "select_main_ads"           : "ADMOB-B",
+      "select_backup_ads"         : "ADMOB-B",
 
-      "main_ads_banner"           : "ca-app-pub-7892079575384351/1899687254",
-      "main_ads_intertitial"      : "ca-app-pub-7892079575384351/9586605582",
-      "main_ads_native"           : "ca-app-pub-7892079575384351/2773785223",
+      "main_ads_banner"           : "ca-app-pub-7892079575384351/1899687254x",
+      "main_ads_intertitial"      : "ca-app-pub-7892079575384351/9586605582x",
+      "main_ads_native"           : "ca-app-pub-7892079575384351/2773785223x",
 
-      "open_ads"                  : "ca-app-pub-7892079575384351/1460703555",
+      "open_ads"                  : "ca-app-pub-7892079575384351/1460703555x",
 
       "backup_ads_banner"         : "null",
-      "backup_ads_intertitial"    : "c6e570c22d0f87e6",
-      "backup_ads_native"         : "2886a12482b87278",
+      "backup_ads_intertitial"    : "c6e570c22d0f87e6x",
+      "backup_ads_native"         : "2886a12482b87278x",
       
-      "initialize_sdk"            : "",
-      "initialize_sdk_backup_ads" : "",
+      "initialize_sdk"            : "null",
+      "initialize_sdk_backup_ads" : "null",
 
-      "interval_intertitial"      : 22,
+      "interval_intertitial"      : 5,
 
       "high_paying_keyword_1"     : "life insurance",
       "high_paying_keyword_2"     : "health insurance",

@@ -1,12 +1,12 @@
 {
   "Ads": [
     {
-      "more_app"                  : "1",
-      "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "FACEBOOK",
+      "more_app"                  : "0",
+      "select_main_ads"           : "ADMOB-B",
+      "select_backup_ads"         : "ADMOB-B",
 
       "main_ads_banner"           : "ca-app-pub-7892079575384351/5074884628x",
-      "main_ads_intertitial"      : "ca-app-pub-7892079575384351/1925977101",
+      "main_ads_intertitial"      : "ca-app-pub-7892079575384351/1925977101x",
       "main_ads_native"           : "ca-app-pub-7892079575384351/7046441843x",
 
       "open_ads"                  : "ca-app-pub-7892079575384351/2944944108x",
@@ -15,10 +15,10 @@
       "backup_ads_intertitial"    : "1000735354311605_1000735417644932",
       "backup_ads_native"         : "1000735354311605_1000735427644931",
       
-      "initialize_sdk"            : "",
-      "initialize_sdk_backup_ads" : "",
+      "initialize_sdk"            : "null",
+      "initialize_sdk_backup_ads" : "null",
 
-      "interval_intertitial"      : 22,
+      "interval_intertitial"      : 5,
 
       "high_paying_keyword_1"     : "life insurance",
       "high_paying_keyword_2"     : "health insurance",
