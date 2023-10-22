@@ -2,8 +2,8 @@
   "Ads": [
     {
       "more_app"                  : "1",
-      "select_main_ads"           : "ADMOB-B",
-      "select_backup_ads"         : "FACEBOOK-B",
+      "select_main_ads"           : "ADMOB",
+      "select_backup_ads"         : "FACEBOOK",
 
       "main_ads_banner"           : "ca-app-pub-7892079575384351/3582835400",
       "main_ads_intertitial"      : "ca-app-pub-7892079575384351/7366167744",
