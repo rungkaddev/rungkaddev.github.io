@@ -12,7 +12,7 @@
       "open_ads"                  : "ca-app-pub-7892079575384351/84538554991",
 
       "backup_ads_banner"         : "6c6dae490bb5eed2",
-      "backup_ads_intertitial"    : "9ff2c8b570dcedd2",
+      "backup_ads_intertitial"    : "null",
       "backup_ads_native"         : "null",
       
       "initialize_sdk"            : "null",
