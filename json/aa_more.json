@@ -72,6 +72,87 @@
       "title":"Rose",
       "image":"https://rungkaddev.github.io/img/blackpinkrose.webp",
       "link":"https://play.google.com/store/apps/details?id=com.rungkad.blackpinkrose"
+    },
+
+
+
+    {
+      "id":22,
+      "title":"Bellingham",
+      "image":"https://rungkaddev.github.io/img/bellinghamrungkad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.rungkad.bellinghamrungkad"
+    },
+    {
+      "id":23,
+      "title":"Ronaldo",
+      "image":"https://rungkaddev.github.io/img/cristianoronaldorungkad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.rungkad.cristianoronaldorungkad"
+    },
+    {
+      "id":24,
+      "title":"Messi",
+      "image":"https://rungkaddev.github.io/img/haalandrungkad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.rungkad.haalandrungkad"
+    },
+    {
+      "id":25,
+      "title":"Alvarez",
+      "image":"https://rungkaddev.github.io/img/julianalvarezrungkad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.rungkad.julianalvarezrungkad"
+    },
+    {
+      "id":26,
+      "title":"Benzema",
+      "image":"https://rungkaddev.github.io/img/karimbenzemarungkad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.rungkad.karimbenzemarungkad"
+    },
+    {
+      "id":27,
+      "title":"Mbappe",
+      "image":"https://rungkaddev.github.io/img/mbapperungkad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.rungkad.mbapperungkad"
+    },
+    {
+      "id":28,
+      "title":"Salah",
+      "image":"https://rungkaddev.github.io/img/mohamedsalahrungkad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.rungkad.mohamedsalahrungkad"
+    },
+    {
+      "id":29,
+      "title":"Neymar",
+      "image":"https://rungkaddev.github.io/img/neymarrungkad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.rungkad.neymarrungkad"
+    },
+    {
+      "id":30,
+      "title":"Ramos",
+      "image":"https://rungkaddev.github.io/img/sergioramosrungkad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.rungkad.sergioramosrungkad"
+    },
+    {
+      "id":31,
+      "title":"Vinicius",
+      "image":"https://rungkaddev.github.io/img/viniciusrungkad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.rungkad.viniciusrungkad"
+    },
+    {
+      "id":32,
+      "title":"Diana",
+      "image":"https://rungkaddev.github.io/img/dianashowrungkad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.rungkad.dianashowrungkad"
+    },
+    {
+      "id":33,
+      "title":"Nastya",
+      "image":"https://rungkaddev.github.io/img/likenastyarungkad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.rungkad.likenastyarungkad"
+    },
+    {
+      "id":34,
+      "title":"Domelipa",
+      "image":"https://rungkaddev.github.io/img/domeliparungkad.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.rungkad.domeliparungkad"
     }
   ]
 
